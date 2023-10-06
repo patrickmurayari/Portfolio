@@ -1,6 +1,6 @@
-import img from '../img/img.jpg'
+import img from '../img/mainimg2.jpg'
 import { TypeAnimation } from 'react-type-animation'
-import { FaTwitter , FaFacebookF, FaInstagram , FaLinkedinIn } from  'react-icons/fa'
+import { FaTwitter, FaFacebookF, FaInstagram, FaLinkedinIn , FaGithub } from 'react-icons/fa'
 
 
 const Main = () => {
@@ -11,29 +11,38 @@ const Main = () => {
                 <div className=' max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center marker:'>
                     <h1 className=' sm:text-5xl text-4xl font-bold text-gray-800 '>
                         Soy Patrick Murayari</h1>
-                    <h2 className='flex sm:text-3xl text-2xl pt-4 text-gray-800'> 
+                    <h2 className='flex sm:text-3xl text-2xl pt-4 text-gray-800'>
                         Soy un
                         <TypeAnimation
                             sequence={[
                                 // Same substring at the start will only be typed out once, initially
-                                'Desarrollador',
+                                'Desarrollador Full Stack',
                                 2000, // wait 1s before replacing "Mice" with "Hamsters"
                                 'Entusiasta por la tecnologia',
-                                2000,
-                                'Codificador',
                                 2000,
                             ]}
                             wrapper="span"
                             speed={50}
-                            style={{ fontSize: '1em', paddingLeft: '5px' ,  display: 'inline-block' }}
+                            style={{ fontSize: '1em', paddingLeft: '5px', display: 'inline-block' }}
                             repeat={Infinity}
                         />
                     </h2>
                     <div className=' flex justify-between pt-6 max-w-[200px] w-full'>
-                        <FaTwitter className=' cursor-pointer' size={20} />
-                        <FaFacebookF  className=' cursor-pointer' size={20} />
-                        <FaInstagram  className=' cursor-pointer' size={20}/>
-                        <FaLinkedinIn  className=' cursor-pointer' size={20}/>
+                        <a href='https://twitter.com/Patoo_lu' target="_blank" rel="noopener noreferrer" >
+                            <FaTwitter className=' cursor-pointer' size={20} />
+                        </a>
+                        <a href='https://www.facebook.com/patrick.murayari.18/'  target="_blank" rel="noopener noreferrer" >
+                            <FaFacebookF className=' cursor-pointer' size={20} />
+                        </a>
+                        <a href='https://www.instagram.com/patrick_m_cc/' target="_blank" rel="noopener noreferrer" >
+                            <FaInstagram className=' cursor-pointer' size={20} />
+                        </a>
+                        <a href='https://www.linkedin.com/in/patrick-murayari-coronel/' target="_blank" rel="noopener noreferrer">
+                            <FaLinkedinIn className=' cursor-pointer' size={20} />
+                        </a>
+                        <a href='https://github.com/patrickmurayari' target="_blank" rel="noopener noreferrer">
+                            <FaGithub className=' cursor-pointer' size={20} />
+                        </a>
                     </div>
                 </div>
             </div>
