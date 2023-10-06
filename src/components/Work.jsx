@@ -2,32 +2,32 @@ import WorkItem from "./WorkItem"
 
 const data = [
     {
-        year: 2020,
-        title: 'Content Creator',
-        duration: '3 years',
+        year: 2023,
+        title: 'Desarrollador Front-end',
+        duration: 'Actual',
         details:
-            ' The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham. '
+            ' Diseño y desarrollo de sitios web para clientes.Colaboración en proyectos de diseño web desde la concepción hasta la implementación. Uso de herramientas y tecnologías específicas, como JavaScript, React, Tailwind, HTML, CSS, etc. Trabajo en estrecha colaboración con clientes para comprender sus requisitos y objetivos. '
+    },
+    {
+        year: 2023,
+        title: 'Full Stack Teaching Assistant',
+        duration: '3 meses',
+        details:
+            ' Coordine un grupo de estudiantes con el objetivo de lograr su adaptación al programa. Oriente a los estudiantes en los primeros pasos de la cursada y resolver sus inquietudes. Asistí y acompañe en la resolución de ejercicios y a promover la colaboración grupal (Pair Programming).Propuse ideas para la mejora de los procesos del Bootcamp. Promoví la cohesión grupal y generar comunidad '
     },
     {
         year: 2020,
-        title: 'Content Creator',
-        duration: '3 years',
+        title: 'Técnico en ensamblaje de computadoras',
+        duration: '3 años',
         details:
-            ' The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham. '
+            ' Técnico en ensamblaje de computadoras con experiencia en la construcción y configuración de sistemas informático. Experto en la selección de componentes, resolución de problemas de hardware y garantía de calidad. Apasionado por brindar soluciones tecnológicas a medida y maximizar el rendimiento del hardware. '
     },
     {
-        year: 2020,
-        title: 'Content Creator',
-        duration: '3 years',
+        year: 2016,
+        title: 'Analista en comercialización de productos',
+        duration: '4 años',
         details:
-            ' The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham. '
-    },
-    {
-        year: 2020,
-        title: 'Content Creator',
-        duration: '3 years',
-        details:
-            ' The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham. '
+            'Con mas de 5 años de experiencia en la comercialización de carne vacuna desempeñe un rol clave en el negocio, contribuyendo al éxito y crecimiento de la empresa. Mi desempeño se centró en la gestión integral de las operaciones comerciales, garantizando la satisfacción de los clientes y el cumplimiento de los objetivos comerciales.' 
     },
 
 ]
