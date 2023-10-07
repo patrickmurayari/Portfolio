@@ -18,6 +18,7 @@ const About = () => {
                         desarrollo. Mi dedicación al desarrollo de software se refleja en un compromiso constante con la excelencia, la resolución de
                         problemas y la innovación, lo que me impulsa a seguir contribuyendo a proyectos de alto impacto en el mundo digital.
                     </p>
+                    
                 </div>
             </div>
         </div>
