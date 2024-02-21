@@ -13,10 +13,11 @@ const About = () => {
                 />|
                 <div className="md:order-2">
                     <p className="py-8 md:ml-4 text-center md:text-left">
-                        Desarrollador Full Stack con más de 2 años de experiencia. Mi versatilidad se traduce en un enfoque integral en
-                        proyectos colaborativos, mejorando la experiencia del usuario y contribuyendo al éxito general de los equipos de
-                        desarrollo. Mi dedicación al desarrollo de software se refleja en un compromiso constante con la excelencia, la resolución de
-                        problemas y la innovación, lo que me impulsa a seguir contribuyendo a proyectos de alto impacto en el mundo digital.
+                    Desarrollador Full Stack con un enfoque integral, especializado en la creación de componentes de Frontend, y desarrollo de 
+                    servidores Backend. Mi versatilidad se traduce en una contribución valiosa a proyectos colaborativos, mejorando la experiencia 
+                    del usuario y aportando al éxito general de los equipos de desarrollo. Mi dedicación al desarrollo de software se refleja en un 
+                    compromiso constante con la excelencia, la resolución de problemas y la innovación. Estoy entusiasmado por seguir contribuyendo a 
+                    proyectos de alto impacto en el mundo digital, manteniendo un enfoque proactivo y una mentalidad orientada a resultados.
                     </p>
                     
                 </div>
