@@ -13,11 +13,19 @@ const About = () => {
                 />|
                 <div className="md:order-2">
                     <p className="py-8 md:ml-4 text-center md:text-left">
-                    Desarrollador Full Stack con un enfoque integral, especializado en la creación de componentes de Frontend, y desarrollo de 
-                    servidores Backend. Mi versatilidad se traduce en una contribución valiosa a proyectos colaborativos, mejorando la experiencia 
-                    del usuario y aportando al éxito general de los equipos de desarrollo. Mi dedicación al desarrollo de software se refleja en un 
-                    compromiso constante con la excelencia, la resolución de problemas y la innovación. Estoy entusiasmado por seguir contribuyendo a 
-                    proyectos de alto impacto en el mundo digital, manteniendo un enfoque proactivo y una mentalidad orientada a resultados.
+                        Soy estudiante de Ciencia de Datos en camino a convertirme en un profesional capaz de transformar información en decisiones estratégicas.  
+                        Mi formación combina el rigor del análisis exploratorio con la práctica en preparación de datos y el entrenamiento de modelos supervisados 
+                        como también los no supervisados.  
+                    </p>
+
+                    <p className="py-8 md:ml-4 text-center md:text-left">
+                        Más allá de lo técnico, disfruto entender qué cuentan los datos: encontrar patrones, formular hipótesis y validarlas con métricas sólidas como Accuracy,
+                        F1-score y ROC-AUC. Cada proyecto me ha permitido recorrer el ciclo completo de la ciencia de datos, desde la limpieza de un dataset hasta la 
+                        comunicación clara de los resultados. 
+                    </p>
+
+                      <p className="py-8 md:ml-4 text-center md:text-left">
+                       Me defino como alguien orientado al aprendizaje continuo, con la convicción de que la curiosidad y la disciplina son claves para dominar la ciencia de datos. Busco aportar valor con soluciones reproducibles y efectivas, manteniendo siempre una mentalidad analítica, rigurosa y enfocada en la mejora constante. 
                     </p>
                     
                 </div>

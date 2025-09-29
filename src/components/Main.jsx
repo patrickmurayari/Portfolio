@@ -12,14 +12,15 @@ const Main = () => {
                     <h1 className=' sm:text-5xl text-4xl font-bold text-gray-800 '>
                         Soy Patrick Murayari</h1>
                     <h2 className='flex sm:text-3xl text-2xl pt-4 text-gray-800'>
-                        Soy un
                         <TypeAnimation
                             sequence={[
                                 // Same substring at the start will only be typed out once, initially
-                                'Desarrollador Full Stack',
+                                'Orientado al aprendizaje en Machine Learning',
                                 2000, // wait 1s before replacing "Mice" with "Hamsters"
-                                'Entusiasta por la tecnologia',
+                                'Comprometido con el desarrollo en Data Science',
                                 2000,
+                                'Enfocado en resolver problemas con datos',
+                                2000
                             ]}
                             wrapper="span"
                             speed={50}
